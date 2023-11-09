@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @first-dev
-- 📫 Reach me on Discord: **DevanHND#0787**
+- 📫 Reach me on Discord: **DevanHND**
 
 <!---
 first-dev/first-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
